@@ -1,4 +1,5 @@
-import "./styles.css";
+//import { Component } from "react";
+import "./app.css";
 
 export default function App() {
   return (
