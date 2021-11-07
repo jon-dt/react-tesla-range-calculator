@@ -35,20 +35,20 @@
   background-repeat: no-repeat;
 }
 .tesla-stats-icon--60 {
-  background-image: url("../../assets/models/60.svg");
+  background-image: url(https://raw.githubusercontent.com/gyver98/part1-react-tesla-battery-range-calculator-tutorial/fa6fc8c8fb19d52e4ea784a4c822939063635c2c/src/assets/models/60.svg);
 }
 .tesla-stats-icon--60d {
-  background-image: url(../../assets/models/60d.svg);
+  background-image: url(https://raw.githubusercontent.com/gyver98/part1-react-tesla-battery-range-calculator-tutorial/fa6fc8c8fb19d52e4ea784a4c822939063635c2c/src/assets/models/60d.svg);
 }
 .tesla-stats-icon--75 {
-  background-image: url(../../assets/models/75.svg);
+  background-image: url(https://raw.githubusercontent.com/gyver98/part1-react-tesla-battery-range-calculator-tutorial/fa6fc8c8fb19d52e4ea784a4c822939063635c2c/src/assets/models/75.svg);
 }
 .tesla-stats-icon--75d {
-  background-image: url(../../assets/models/75d.svg);
+  background-image: url(https://raw.githubusercontent.com/gyver98/part1-react-tesla-battery-range-calculator-tutorial/fa6fc8c8fb19d52e4ea784a4c822939063635c2c/src/assets/models/75d.svg);
 }
 .tesla-stats-icon--90d {
-  background-image: url(../../assets/models/90d.svg);
+  background-image: url(https://raw.githubusercontent.com/gyver98/part1-react-tesla-battery-range-calculator-tutorial/fa6fc8c8fb19d52e4ea784a4c822939063635c2c/src/assets/models/90d.svg);
 }
 .tesla-stats-icon--p100d {
-  background-image: url(../../assets/models/p100d.svg);
+  background-image: url(https://raw.githubusercontent.com/gyver98/part1-react-tesla-battery-range-calculator-tutorial/fa6fc8c8fb19d52e4ea784a4c822939063635c2c/src/assets/models/p100d.svg);
 }
